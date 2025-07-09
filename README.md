@@ -1,5 +1,7 @@
 # 🔗URL Shortener
 
+![App Screenshot](./assets/image.png)
+
 A modern and responsive URL Shortener built with **React**, using **Material UI** for styling and client-side **localStorage** for persistence. Supports optional shortcodes, expiration timers, and detailed analytics — all without a backend!
 
 ---
